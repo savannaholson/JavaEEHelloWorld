@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="36a13b7a-2684-45d5-8e42-046ff552e733" name="Default" comment="" />
+    <list default="true" readonly="true" id="36a13b7a-2684-45d5-8e42-046ff552e733" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="JavaEEHelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,8 +28,8 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22255193">
-              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+            <state vertical-scroll-proportion="0.5341246">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -616,12 +618,12 @@
       <workItem from="1453490703955" duration="1165000" />
       <workItem from="1453492361722" duration="963000" />
       <workItem from="1453834579185" duration="298000" />
-      <workItem from="1453838238758" duration="140000" />
+      <workItem from="1453838238758" duration="315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2566000" />
+    <option name="totallyTimeSpent" value="2741000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -704,8 +706,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22255193">
-          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+        <state vertical-scroll-proportion="0.5341246">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding />
         </state>
       </provider>
